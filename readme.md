@@ -1,4 +1,4 @@
-<div align="center">
+Sherjal pasi<div align="center">
 	<br>
 	<div>
 		<img width="600" height="600" src="media/logo.svg" alt="ky">
